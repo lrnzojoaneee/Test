@@ -11,7 +11,7 @@
 </head>
 <body>
 <center><div class="display-1">Joane Lorenzo</div>
-<!-- Button trigger modal -->"
+<!-- Button trigger modal -->
 <button type="button" class="btn btn-success" id="login_button" data-toggle="modal" data-target="#exampleModal" >
   Log-in
 </button>
