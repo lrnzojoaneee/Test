@@ -55,3 +55,11 @@
 </center>
 </body>
 </html>
+<!--localStorage
+Storage {test_password: "ajejejejeje", test_email: "lorenzojoane@gmail.com", testonly: "123456", length: 3}
+length: 3
+test_email: "lorenzojoane@gmail.com"
+test_password: "ajejejejeje"
+testonly: "123456"
+__proto__: Storage
+-->
