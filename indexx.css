@@ -1,0 +1,10 @@
+#container {
+    position: absolute;
+    left-margin: auto;
+    height: 300px;
+    width: 700px;
+    border: 1px solid grey;
+}
+#butones{
+    margin-bottom: 500px;
+}
