@@ -11,7 +11,7 @@
 .calc-container{
     position: absolute;
     left-margin: auto;
-    height: 500px;
+    height: 300px;
     width: 200px;
     border: 1px solid grey;
 }
